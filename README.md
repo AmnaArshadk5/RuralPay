@@ -8,11 +8,11 @@
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![Vite](https://img.shields.io/badge/Vite-Build-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ruralpay-app.vercel.app/)
+[![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/amnaarshadk5s-projects/ruralpay-app)
 
 **RuralPay** is a full-stack BNPL (Buy Now Pay Later) platform designed to bring accessible digital financing to rural communities. Users can apply for installment-based loans on durable goods, manage their digital wallet, track expenses, set budgets, and more — all in a premium glassmorphism UI.
 
-[🚀 Live Demo](https://ruralpay-app.vercel.app/) · [📂 Repository](https://github.com/AmnaArshadk5/web-pro)
+[🚀 Live Demo](https://ruralpay-app.vercel.app/) · [📂 Repository](https://github.com/AmnaArshadk5/RuralPay)
 
 </div>
 
@@ -173,8 +173,8 @@ ruralpay/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/AmnaArshadk5/web-pro.git
-cd web-pro/projectwebcourse
+git clone https://github.com/AmnaArshadk5/RuralPay.git
+cd RuralPay/projectwebcourse
 ```
 
 ---
